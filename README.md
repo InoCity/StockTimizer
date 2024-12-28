@@ -6,3 +6,5 @@ A simple optimizer for Motorola G34 5G
 - Magisk (Latest version)
 - Moto G34 5G on Stock Rom
 - Android 14
+
+**Thanks to Uneike** 🫡
